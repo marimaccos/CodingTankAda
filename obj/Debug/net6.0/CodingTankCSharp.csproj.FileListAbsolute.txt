@@ -1,0 +1,15 @@
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\bin\Debug\net6.0\CodingTankCSharp.exe
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\bin\Debug\net6.0\CodingTankCSharp.deps.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\bin\Debug\net6.0\CodingTankCSharp.runtimeconfig.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\bin\Debug\net6.0\CodingTankCSharp.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\bin\Debug\net6.0\CodingTankCSharp.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.csproj.AssemblyReference.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.AssemblyInfoInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.AssemblyInfo.cs
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.csproj.CoreCompileInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\refint\CodingTankCSharp.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\CodingTankCSharp.genruntimeconfig.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\CodingTankCSharp\obj\Debug\net6.0\ref\CodingTankCSharp.dll
